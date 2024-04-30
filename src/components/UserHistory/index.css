@@ -1,0 +1,23 @@
+.carditem {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.butt {
+  display: flex;
+  justify-content: flex-end;
+}
+.infodata {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-grow: 1;
+  margin-left: 20px;
+}
+.logoimgr {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.nameinfo {
+  margin-right: 20px;
+}
